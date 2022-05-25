@@ -12,4 +12,3 @@
         <p>No Listings Found! - Try to add a lisgting!</p>
     @endunless
 </x-layout>
-
