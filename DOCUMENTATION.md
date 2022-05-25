@@ -7,3 +7,7 @@
 
 
 php artisan make:migration create_listings_table to create a table.
+
+
+
+Continue from alpine js
